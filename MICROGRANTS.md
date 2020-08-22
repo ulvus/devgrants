@@ -4,6 +4,8 @@
 
 The IPFS Adoption Microgrants are intended to encourage experimentation with, and adoption of IPFS across a range of fields. They are offered with the understanding that decentralized technologies are a rapidly developing field with many unknowns, and do not make complete technical success of the proposal a prerequisite for the award.
 
+Microgrants aligned with this quarter's [Focus Area](FOCUS.md) will be given priority consideration.
+
 ### Intended Audience
 These grants are intended for independent developers, small studios, non-profits, activists, and researchers. The ideal candidate is a domain expert exploring integrating decentralized technologies into their work, particularly broadly used tools or frameworks. Open Source work is preferred, but exceptions can be made on a case-by-case basis.
 
@@ -31,4 +33,4 @@ The grants are currently awarded on a rolling basis, though we may switch to fix
 The grant fund is contributed by [Protocol Labs](https://protocol.ai/) on a quarterly basis.
 
 ## Note
-Adoption migrogrants are just one aspect of the IPFS project's overall grant program. Check out the top level of the [IPFS Grant Platform repo](https://github.com/ipfs/devgrants) to see the big picture.
+Adoption microgrants are just one aspect of the IPFS project's overall grant program. Check out the top level of the [IPFS Grant Platform repo](https://github.com/ipfs/devgrants) to see the big picture.

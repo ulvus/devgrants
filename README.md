@@ -1,10 +1,9 @@
 # ipfs-grants
-|beta|
-|---|
-
-_:warning: WARNING WARNING WARNING: This is a *beta version* of the grant platform. Grant specifications, process, and tooling are all subject to change (in particular, any dollar award amounts should be treated as tentative). Please open a [META issue](https://github.com/protocol/ipfs-grants/issues/new?assignees=parkan&labels=&template=-meta--grant-platform-improvement.md&title=) with any concerns_
 
 Welcome to the IPFS Grant Platform! The Grant Platform connects grant makers with builders and researchers in the IPFS community. Whether you represent a foundation that wants to move the space forward, a company looking to accelerate development on the features your application needs, or a dev team itching to hack on IPFS tools, you've come to the right place. Take a look at the supported grant types and available funding + work opportunities below.
+
+|:warning: The grants program has now [launched out of beta](https://blog.ipfs.io/2020-04-20-ipfs-grants-platform/) and has been a huge success. The IPFS team budget for grants in Q2 is now spent, and we are not funding any proposals not already in review until Q3 2020. This platform is still open for discussing grants for future funding, to submit proposals that could be funded from other interested parties, or to propose funding of your own for projects you'd like to see exist!|
+|---|
 
 ## Grant Types
 
@@ -36,7 +35,7 @@ To read more about creating an Open Grant proposal, see [OPEN GRANTS](open-grant
 ---
 
 ### Adoption Microgrant
-These are small grants intended to help stimulate experimentation with and adoption of IPFS across a wide range of fields. The application and reporting requirements are more relaxed, but the monetary awards are more limited (~$1k).
+These are small grants intended to help stimulate experimentation with and adoption of IPFS across a wide range of fields. The application and reporting requirements are more relaxed, but the monetary awards are more limited ($1k).
 
 To read more about Adoption Microgrants see [MICROGRANTS](MICROGRANTS.md). Adoption Microgrants are funded by Protocol Labs.
 
@@ -45,7 +44,7 @@ To read more about Adoption Microgrants see [MICROGRANTS](MICROGRANTS.md). Adopt
 ---
 
 ### Targeted Grant
-These are grants negotiated directly with a recepient, rather than going through the usual RFP/open grant process. Targeted Grants are currently made by Protocol Labs.
+These are grants negotiated directly with a recipient, rather than going through the usual RFP/open grant process. Targeted Grants are currently made by Protocol Labs.
 
 [**See In-Progress Targeted Grants**](../../issues?utf8=%E2%9C%93&q=is%3Aissue+label%3Atype%3Atargeted-grant) • [**See Completed Targeted Grants**](targeted-grants/completed)
 
